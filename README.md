@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     <b style="font-size: 18px;">
-      ⚡ Striving to <strong>build silently</strong>, <strong>deliver impact</strong>, and <strong>leave a legacy</strong> in code.
+      ⚡ Striving to <strong>build effectively</strong>, <strong>deliver impact</strong>, and <strong>leave a legacy</strong> in code.
     </b>
     <br>
     <i>“What I do defines me.”</i>
@@ -98,13 +98,19 @@
   <img src="https://github-profile-trophy.vercel.app/?username=BatmanGautham&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="98%"/>
 </div>
 
-
+----------
 
 ## 🎓 Education
 
 🎓 **B.Tech in Computer Science and Engineering**  
 🏫 St. Joseph’s College of Engineering and Technology, Palai  
 📅 Graduated: **May 2025**  
+
+----------
+
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/BatmanGautham_S?theme=neon&layout=card&border=true&hide_title=false&logo=true&animation=true&animation_duration=2s&show_stats=false&font=Roboto)
 
 ---
 
