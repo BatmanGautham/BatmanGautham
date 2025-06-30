@@ -15,17 +15,17 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making;Full-Stack+Dev+%7C+AI+Explorer;Inspired+by+Precision,+Resilience,+and+Stealth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Engineer+in+the+Making;Full-Stack+Dev+%7C+AI+%26+Cybersecurity+Enthusiast;Inspired+by+Precision,+Resilience,+and+Stealth" alt="Typing SVG" />
 </div>
 
 ---
 
 ##  𓆩𓆪 About Me
 
-🧠 Computer Science Grad | Crafting scalable, resilient systems  
-🧩 Full-Stack Developer | AI Explorer | Embedded Enthusiast  
-🎯 Focused on clean architecture, real-world impact, and cross-platform solutions  
-🌍 Based in India | Open to remote collaboration 
+🧠 Computer Science Graduate | Building scalable, secure, and resilient systems  
+🧩 Full-Stack Developer · AI Explorer · Cybersecurity Learner · Embedded Enthusiast  
+🎯 Passionate about clean architecture, real-world impact, and cross-platform solutions  
+🌍 Based in India | Open to remote opportunities and collaboration
 
 ---
 
@@ -44,6 +44,7 @@
   <img width="50" title="C#" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" />
   <img width="50" title="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
   <img width="50" title="PHP" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" />
+  <img width="50" title="Shell" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
 </div>
 
 ----------
@@ -79,6 +80,10 @@
   <img width="50" title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
   <img width="50" title="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
   <img width="50" title="Power BI" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+  <img width="50" title="Wireshark" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+
+  <img width="50" title="Linux" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+  <img width="50" title="Windows" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" />
 </div>
 
 ----------
